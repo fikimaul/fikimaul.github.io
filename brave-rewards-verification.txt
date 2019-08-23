@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: fikimaul.github.io
+Token: 667d253278017e475f1694eaec3500e09cc70687ad3e49335a81bcc5e54d5743
